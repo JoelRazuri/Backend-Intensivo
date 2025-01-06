@@ -16,5 +16,7 @@ Temas base:
   - Creación de proyecto Django
   - Url
   - Vistas
-  - Modelos, usando orm
+  - Modelos, usando ORM
   - Templates base (para extender)
+  - Migraciones
+  - Conexión con base de datos PostgreSQL
