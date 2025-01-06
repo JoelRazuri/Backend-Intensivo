@@ -4,7 +4,6 @@
 """
 
 def crear_lista(*args, inicial=None):
-    
     lista = []
 
     if inicial is not None:
